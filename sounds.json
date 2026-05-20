@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {
+      "name": "Astérix",
+      "sounds": [
+        { "label": "Abandonnée charette",  "file": "sounds/abandonnee_charette.mp3" },
+        { "label": "Petit creux",  "file": "sounds/sangliers_petit_creux.mp3" }
+      ]
+    }
+  ]
+}
